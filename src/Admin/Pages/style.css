@@ -1,0 +1,321 @@
+.form-control {
+    width: 100%!important;
+}
+body {
+    background-color: #e9e9e9;
+    font-family: Arial, sans-serif;
+}
+.login-container {
+    max-width: 400px;
+    position: relative;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #d2d2d2;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+h2 {
+    text-align: center;
+    color: #333;
+}
+table {
+    width: 100%;
+}
+table tr {
+    margin-bottom: 15px;
+}
+table td {
+    padding: 10px;
+}
+input[type="text"] {
+    /* width: 100%!important; */
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+input[type="button"] {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+input[type="button"]:hover {
+    background-color: #0056b3;
+}
+body {
+    background: #dedede !important;
+  }
+  
+  .wrapper {
+    margin-top: 150px;
+    margin-bottom: 80px;
+  }
+  
+  .form-signin {
+    width: 380px;
+    height: 350px;
+    padding: 45px;
+    margin: 0 auto;
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+  }
+  
+  .form-signin-heading,
+  .checkbox {
+    margin-bottom: 30px;
+  }
+  
+  .checkbox {
+    font-weight: normal;
+  }
+  
+  .form-control {
+    position: relative;
+    font-size: 16px;
+    /* width: 75%!important; */
+    height: auto;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+  
+  .form-control:focus {
+    z-index: 2;
+  }
+  
+  input[type="text"] {
+    margin-bottom: -1px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+  }
+  
+  input[type="password"] {
+    /* width: 100%!important; */
+    margin-bottom: 20px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+  }
+  .container-category {
+    display: flex;
+    width: 450px!important;
+    margin: 0 auto!important;
+    justify-content: center;
+    align-items: center;
+}
+
+.custom-table {
+    border-collapse: collapse;
+    width: 300px;
+}
+
+.custom-table td {
+    padding: 10px;
+    text-align: right;
+    vertical-align: middle;
+}
+
+.custom-table input[type="text"] {
+    width: 100%;
+    padding: 5px;
+}
+
+.custom-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 5px 5px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.custom-button:hover {
+    background-color: #0056b3;
+}
+#form-market{
+  width: 75%!important; 
+}
+.nd-card-header{
+  width: 100%;
+  height: 55px;
+  margin-top: 70px;
+  background-color: #222B45;
+  padding: 10px;
+  top: 0;
+}
+.nd-card-header1{
+  width: 96.5%;
+  height: 55px;
+  background-color: #222B45;
+  padding: 15px;
+}
+.items{
+  width: 100%;
+  height: 300px;
+  background-color: #222B45;
+  overflow: hidden;
+  overflow-y: scroll;
+
+}
+.ecommerce-chart{
+  width: 100%;
+  height: 100%;
+  background-color: #222B45;
+}
+.summary-container{
+  background-color: #151A30;
+  padding: 24px 55px;
+}
+text.apexcharts-text{
+  fill: white;
+}
+.apexcharts-toolbar{
+  display: none!important;
+}
+.apexcharts-legend-text{
+  color: white!important;
+  font-size: 15px!important;
+}
+.order-chart{
+  width: 400px;
+  padding: 16px 23px;
+  background-color: #222B45;
+}
+.map-chart span{
+  font-size: 12px;
+}
+.apexcharts-text{
+  font-size: 16px!important;
+}
+.nd-card-headers{
+  padding: 22px 16px;
+  width: 100%;
+}
+.nd-body{
+  width: 100%;
+  height: 93%;
+  background-color: #222B45;
+  padding: 30px;
+}
+.progressbar{
+  width: 100%;
+  background-color: #192038;
+  height: 25px;
+}
+.progress-value, .progress-value1, .progress-value2{
+  width: 70%;
+  background-color:#0a0c0f;
+  height: 25px;
+}
+.progress-value1{
+  width: 30%;
+}
+.progress-value2{
+  width: 55%;
+}
+/* Custom styles for the table */
+.custom-table {
+  border-collapse: collapse;
+  width: 100%;
+  border: 1px solid #007BFF;
+}
+
+.custom-table th,
+.custom-table td {
+  border: 1px solid #007BFF;
+  padding: 8px;
+  text-align: center;
+}
+
+.custom-table th {
+  background-color: #007BFF;
+  color: white;
+}
+
+.custom-table img {
+  max-width: 250px;
+  height: auto;
+}
+
+/* Custom styles for the delete and edit buttons */
+.delete-button,
+.edit-button {
+  padding: 5px 10px;
+  border: none;
+  cursor: pointer;
+  font-size: 14px;
+  margin-left: 10px; /* Adjust the spacing as needed */
+}
+
+.delete-button {
+  background-color: #DC3545;
+  color: white;
+}
+
+.delete-button:hover {
+  background-color: #C82333;
+}
+
+.edit-button {
+  background-color: #28A745;
+  color: white;
+}
+
+.edit-button:hover {
+  background-color: #218838;
+}
+/* Styles for the container */
+.container-category {
+  margin: 20px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Styles for the custom table */
+.custom-table-category {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid #007BFF;
+}
+
+.custom-table-category .label-cell {
+  width: 30%;
+  text-align: right;
+  padding: 8px;
+}
+
+.custom-table-category .input-field {
+  width: 70%;
+  padding: 8px;
+  border: 1px solid #007BFF;
+  border-radius: 4px;
+}
+
+.custom-table-category .action-button {
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  font-size: 14px;
+  border-radius: 4px;
+  color: white;
+}
+
+.custom-table-category .submit-button {
+  background-color: #28A745;
+  width: 50%;
+}
+
+.custom-table-category .edit-button {
+  background-color: #007BFF;
+}
+
+.custom-table-category .submit-button:hover {
+  background-color: #218838;
+}
+
+.custom-table-category .edit-button:hover {
+  background-color: #0056b3;
+}
+

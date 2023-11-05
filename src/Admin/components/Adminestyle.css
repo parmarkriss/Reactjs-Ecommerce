@@ -1,0 +1,20 @@
+.navbar-brand .logo {
+  max-width: 50px;
+}
+.navbar-brand .sp {
+  color: #4D5F71!important;
+  font-weight: 800;
+}
+.admin-nav {
+  background-color: #36454F; /* Change to your desired color */
+}
+.form-label {
+  font-weight: bold;
+  color: #333;
+}
+
+.form-control {
+  border: 1px solid #ccc;
+  padding: 5px;
+}
+  

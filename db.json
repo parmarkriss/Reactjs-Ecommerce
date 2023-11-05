@@ -1,0 +1,347 @@
+{
+  "users": [
+    {
+      "name": "krishna",
+      "email": "krishna@gmail.com",
+      "password": "45678",
+      "confirmpassword": "45678",
+      "gender": "female",
+      "role": "user",
+      "id": 1
+    },
+    {
+      "name": "smit ",
+      "email": "smit@gmail.com",
+      "password": "45678",
+      "confirmpassword": "45678",
+      "gender": "male",
+      "role": "user",
+      "id": 2
+    },
+    {
+      "name": "kamal",
+      "email": "kamal@gmail.com",
+      "password": "78945",
+      "confirmpassword": "78945",
+      "gender": "male",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "name": "we2",
+      "email": "we2@gmail.com",
+      "password": "12345",
+      "confirmpassword": "12345",
+      "gender": "male",
+      "role": "user",
+      "id": 4
+    },
+    {
+      "name": "viraj",
+      "email": "viraj@gmail.com",
+      "password": "96321",
+      "confirmpassword": "96321",
+      "gender": "male",
+      "role": "user",
+      "id": 6
+    },
+    {
+      "name": "krish",
+      "email": "krish@gmail.com",
+      "password": "12345",
+      "confirmpassword": "12345",
+      "gender": "male",
+      "role": "user",
+      "id": 7
+    },
+    {
+      "name": "kriss",
+      "email": "kriss@gmail.com",
+      "password": "931350",
+      "confirmpassword": "931350",
+      "gender": "male",
+      "role": "admin",
+      "id": 7
+    }
+  ],
+  "category": [
+    {
+      "category_name": "All",
+      "image_url": "https://img.freepik.com/premium-photo/traditional-spanish-food-hamon_181303-5306.jpg?w=740",
+      "id": 1
+    },
+    {
+      "category_name": "mobile",
+      "image_url": "https://rukminim1.flixcart.com/fk-p-flap/80/80/image/444802d58a814f57.png?q=100",
+      "id": 2
+    },
+    {
+      "category_name": "eletronics",
+      "image_url": "https://rukminim1.flixcart.com/fk-p-flap/80/80/image/ce3744f59fadb72e.png?q=100",
+      "id": 3
+    },
+    {
+      "category_name": "shoes",
+      "image_url": "https://rukminim1.flixcart.com/fk-p-flap/80/80/image/e4b01f3d783c49a1.png?q=100",
+      "id": 4
+    },
+    {
+      "category_name": "furniture",
+      "image_url": "https://rukminim1.flixcart.com/fk-p-flap/80/80/image/dc9cb4d7bd005f70.png?q=100",
+      "id": 5
+    }
+  ],
+  "slider": [
+    {
+      "image": "https://rukminim1.flixcart.com/fk-p-flap/1600/270/image/4d10ce1f9122c4d3.jpeg?q=20",
+      "id": 1
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/fk-p-flap/1600/270/image/2dc3aafcc8afbaf8.jpg?q=20",
+      "id": 2
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/fk-p-flap/1600/270/image/dd7f425c6a2fa49a.jpg?q=20",
+      "id": 3
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/fk-p-flap/1600/270/image/a5e9b919e1d75c08.jpeg?q=20",
+      "id": 4
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/fk-p-flap/1600/270/image/89a476a3137e63a8.jpg?q=20",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "name": "Pendrive",
+      "price": 300,
+      "qty": 1,
+      "image": "https://rukminim2.flixcart.com/image/612/612/jwfa5jk0/pendrive/pendrive/z/f/p/sandisk-sdcz50-128g-i35-original-imafh3xkevktvq4w.jpeg?q=70",
+      "category": "eletronics",
+      "status": "instock",
+      "desc": "",
+      "marketstatus": "best",
+      "id": 1
+    },
+    {
+      "name": "Printer",
+      "price": 5000,
+      "qty": 1,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/printer/r/6/t/-original-imagnuwezn8c5nmg.jpeg?q=70",
+      "category": "eletronics",
+      "status": "instock",
+      "desc": "",
+      "marketstatus": "best",
+      "id": 3
+    },
+    {
+      "name": "Monitor",
+      "price": 6399,
+      "qty": 1,
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/monitor/2/f/c/-original-imagsemasfdpekgm.jpeg?q=70",
+      "category": "eletronics",
+      "status": "instock",
+      "desc": "",
+      "marketstatus": "best",
+      "id": 4
+    },
+    {
+      "name": "Google Pixel 7a",
+      "price": 35999,
+      "qty": 1,
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/i/a/r/-original-imagtrf9qm3dufq9.jpeg?q=70",
+      "category": "mobile",
+      "status": "instock",
+      "desc": "",
+      "marketstatus": "upcomming",
+      "id": 5
+    },
+    {
+      "name": "Samsung F34",
+      "price": 14499,
+      "qty": 1,
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/n/w/e/-original-imagtyw9fdfnsune.jpeg?q=70",
+      "category": "mobile",
+      "status": "instock",
+      "desc": "",
+      "marketstatus": "latest",
+      "id": 6
+    },
+    {
+      "name": "Redmi 12",
+      "price": 9499,
+      "qty": 1,
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/h/f/w/-original-imags37hy7uz2usv.jpeg?q=70",
+      "category": "mobile",
+      "status": "instock",
+      "desc": "",
+      "marketstatus": "best",
+      "id": 7
+    },
+    {
+      "name": "Vivo T2",
+      "price": 17999,
+      "qty": 1,
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/u/1/h/-original-imagpfbvfu4p55n4.jpeg?q=70",
+      "category": "mobile",
+      "status": "instock",
+      "desc": "",
+      "marketstatus": "trending",
+      "id": 8
+    },
+    {
+      "name": "Poco c55",
+      "price": 14000,
+      "qty": 1,
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/y/9/g/-original-imagnfzyhh8gz8sd.jpeg?q=70",
+      "category": "mobile",
+      "status": "instock",
+      "desc": "",
+      "marketstatus": "latest",
+      "id": 9
+    },
+    {
+      "name": "U.s Polo Assn",
+      "price": 1188,
+      "qty": 1,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/r/f/5/11-2531910312-11-u-s-polo-assn-off-white-original-imags5qhjgh9sgq2.jpeg?q=70",
+      "category": "shoes",
+      "status": "instock",
+      "desc": "",
+      "marketstatus": "latest",
+      "id": 10
+    },
+    {
+      "name": "Puma",
+      "price": 1757,
+      "qty": 1,
+      "image": "https://rukminim2.flixcart.com/image/612/612/kgtqhe80-0/shoe/h/z/i/369573-7-puma-white-black-limoges-high-risk-red-original-imafwywsyytz3afz.jpeg?q=70",
+      "category": "shoes",
+      "status": "instock",
+      "desc": "",
+      "marketstatus": "best",
+      "id": 11
+    },
+    {
+      "name": "Reebook",
+      "price": 9499,
+      "qty": 1,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/e/k/v/-original-imagtbtdashzfxgs.jpeg?q=70",
+      "category": "shoes",
+      "status": "instock",
+      "desc": "",
+      "marketstatus": "latest",
+      "id": 12
+    },
+    {
+      "name": "Adidas",
+      "price": 1800,
+      "qty": 1,
+      "image": "https://rukminim2.flixcart.com/image/612/612/l58iaa80/shoe/6/s/f/12-ey3047-12-adidas-cblack-drkroy-dovgry-original-imagfyjne5wx8h35.jpeg?q=70",
+      "category": "shoes",
+      "status": "instock",
+      "desc": "",
+      "marketstatus": "latest",
+      "id": 13
+    },
+    {
+      "name": "Woodland",
+      "price": 1931,
+      "qty": 1,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/x/u/q/-original-imagudcgmnp2pfrf.jpeg?q=70",
+      "category": "shoes",
+      "status": "instock",
+      "desc": "",
+      "marketstatus": "trending",
+      "id": 14
+    },
+    {
+      "name": "Home Temple",
+      "price": 1100,
+      "qty": 1,
+      "image": "https://rukminim2.flixcart.com/image/150/150/k3dc7m80/home-temple/m/c/h/temple-with-light-wall-hanging-marusthalee-original-imafmhr7fzybarm5.jpeg?q=70",
+      "category": "furniture",
+      "status": "instock",
+      "desc": "",
+      "marketstatus": "latest",
+      "id": 15
+    },
+    {
+      "name": "Sofa Beds",
+      "price": 6099,
+      "qty": 1,
+      "image": "https://rukminim2.flixcart.com/image/150/150/jsc3ssw0/sofa-bed/z/u/m/double-beige-jute-ritz-sofa-bed-beige-sofame-brown-original-imafdxg7dgg3tkty.jpeg?q=70",
+      "category": "furniture",
+      "status": "instock",
+      "desc": "",
+      "marketstatus": "upcomming",
+      "id": 16
+    },
+    {
+      "name": "Wardrobes",
+      "price": 4999,
+      "qty": 1,
+      "image": "https://rukminim2.flixcart.com/image/150/150/keg02a80/wardrobe-closet/f/y/f/particle-board-bewtri000500800620-kurlon-wenge-original-imafv49kgfrmmxbq.jpeg?q=70",
+      "category": "furniture",
+      "status": "instock",
+      "desc": "",
+      "marketstatus": "upcomming",
+      "id": 17
+    },
+    {
+      "name": "Recliner",
+      "price": 11999,
+      "qty": 1,
+      "image": "https://rukminim2.flixcart.com/image/150/150/ji0lbbk0/recliner/q/n/7/maroon-pu-leatherette-emporiummaroon-westido-original-imaf5wr5x27c6gaq.jpeg?q=70",
+      "category": "furniture",
+      "status": "instock",
+      "desc": "",
+      "marketstatus": "best",
+      "id": 18
+    },
+    {
+      "name": "Benches",
+      "price": 2999,
+      "qty": 1,
+      "image": "https://rukminim2.flixcart.com/image/150/150/k9u8zgw0/bench/k/n/m/3-seater-natural-wood-brown-rosewood-sheesham-3-seater-settie-original-imafrjb8bdgnmvgb.jpeg?q=70",
+      "category": "furniture",
+      "status": "instock",
+      "desc": "",
+      "marketstatus": "best",
+      "id": 19
+    }
+  ],
+  "carts": [
+    {
+      "name": "Monitor",
+      "price": 6399,
+      "qty": "4",
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/monitor/2/f/c/-original-imagsemasfdpekgm.jpeg?q=70",
+      "category": "eletronics",
+      "userId": 2,
+      "productId": 5,
+      "id": 2
+    },
+    {
+      "name": "Pendrive",
+      "price": 300,
+      "qty": 1,
+      "image": "https://rukminim2.flixcart.com/image/612/612/jwfa5jk0/pendrive/pendrive/z/f/p/sandisk-sdcz50-128g-i35-original-imafh3xkevktvq4w.jpeg?q=70",
+      "category": "eletronics",
+      "userId": 1,
+      "productId": 1,
+      "id": 3
+    }
+  ],
+  "contact": [
+    {
+      "firstname": "ewf",
+      "lasttname": "ew",
+      "email": "w",
+      "message": "wf",
+      "id": 1
+    }
+  ]
+}
